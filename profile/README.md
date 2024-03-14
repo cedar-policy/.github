@@ -16,23 +16,31 @@
 ## Repositories
 
 * **[cedar](https://github.com/cedar-policy/cedar)**  
-Cedar SDK including the authorization engine, validator, policy formatter, and CLI.
+Cedar SDK including the authorization engine, validator, policy formatter, and CLI
 * **[cedar-docs](https://github.com/cedar-policy/cedar-docs)**  
-Houses documentation for all cedar projects.
+Houses documentation for all cedar projects
 * **[cedar-examples](https://github.com/cedar-policy/cedar-examples)**  
 Example applications using the Cedar language and SDK
-* **[cedar-java](https://github.com/cedar-policy/cedar-java)**  
-Java language bindings for Cedar.
 * **[cedar-spec](https://github.com/cedar-policy/cedar-spec)**  
-Formal Lean specification for the Cedar language as well as the differential testing/property-based testing framework.
+Formal Lean specification for the Cedar language as well as the differential testing/property-based testing framework
 * **[cedar-local-agent](https://github.com/cedar-policy/cedar-local-agent)**  
-Configurable cache for Cedar policies and entities.
+Configurable cache for Cedar policies and entities
+* **[cedar-go](https://github.com/cedar-policy/cedar-go)**  
+Cedar Go implementation
+* **[cedar-java](https://github.com/cedar-policy/cedar-java)**  
+Java language bindings for Cedar
 * **[cedar-awesome](https://github.com/cedar-policy/cedar-awesome)**  
 Curated list of awesome Cedar related tools and articles.
 * **[rfcs](https://github.com/cedar-policy/rfcs)**  
-Request For Comments (RFC) for Cedar.
+Request For Comments (RFC) for Cedar
 * **[vscode-cedar](https://github.com/cedar-policy/vscode-cedar)**  
-Cedar policy language extension for Visual Studio Code.
+Cedar policy language extension for Visual Studio Code
+* **[cedar-integration-tests](https://github.com/cedar-policy/cedar-integration-tests)**  
+Cedar integration tests
+* **[highlightjs-cedar](https://github.com/cedar-policy/highlightjs-cedar)**  
+highlight.js support for Cedar policy language
+* **[prism-cedar](https://github.com/cedar-policy/prism-cedar)**  
+Prism support for Cedar policy language
 
 ## Code of Conduct
 
