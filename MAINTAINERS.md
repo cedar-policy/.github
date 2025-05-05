@@ -8,18 +8,17 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 
 |Maintainer	|GitHub ID	|Affiliation	|
 |---	|---	|---	|
-|Neha Rungta	|neharungta	|Amazon	|
-|Mark Stalzer	|mstalzer	|Amazon	|
-|Sarah Cecchetti	|sarahcec	|Amazon	|
 |Darin	McAdams|D-McAdams	|Amazon	|
 |Emina Torlak	|emina	|Amazon	|
-|Mike Hicks	|	mwhicks1|Amazon	|
-|Anwar Mamat	|anwarmamat	|Amazon	|
-|Andrew Wells	|andrewmwells-amazon	|	Amazon|
 |Shaobo He	|shaobo-he-aws	|Amazon	|
-|Aaron Eline	|aaronjeline	|Amazon	|
 |Craig Disselkoen	|cdisselkoen	|Amazon	|
 |John Kastner 	|john-h-kastner-aws	|Amazon	|
-|Kesha Hietala	|khieta	|Amazon	|
-|Matt McCutchen	|mattmccutchen-amazon	|Amazon	|
-|Dave Bishop	|bisdavid	|Amazon	|
+|Adrian Palacios |adpaco-aws |Amazon |
+|Charlie Murphy |chaluli |Amazon |
+|Katherine Hough |katherine-hough |Amazon |
+|Liana Hadarean |lianah |Amazon |
+|Andrew Gwozdziewycz |apg |StrongDM |
+|Ali Dowair |adowair |StrongDM |
+|Phil Hassey |philhassey |StrongDM |
+|Eitan Revach |eitan-revach |Cloudinary |
+|Tom Paulus |tpaulus |Cloudflare |
