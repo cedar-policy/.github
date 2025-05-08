@@ -56,4 +56,4 @@ opensource-codeofconduct@amazon.com with any additional questions or comments.
 
 ## Licensing
 
-See the LICENSE file for our project's licensing. We will ask you to confirm the licensing of your contribution.
+See the [LICENSE](https://github.com/cedar-policy/.github/blob/main/LICENSE) file for our project's licensing. We will ask you to confirm the licensing of your contribution.
