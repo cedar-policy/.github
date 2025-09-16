@@ -8,7 +8,7 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 
 |Maintainer	|GitHub ID	|Affiliation	|
 |---	|---	|---	|
-|Darin	McAdams|D-McAdams	|Amazon	|
+|Darin	McAdams|D-McAdams	|SPRIL	|
 |Emina Torlak	|emina	|Amazon	|
 |Shaobo He	|shaobo-he-aws	|Amazon	|
 |Craig Disselkoen	|cdisselkoen	|Amazon	|
