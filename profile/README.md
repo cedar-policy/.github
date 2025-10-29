@@ -44,7 +44,7 @@ Prism support for Cedar policy language
 
 ## Code of Conduct
 
-This project has adopted the [Amazon Open Source Code of Conduct](../CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq), or contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
+This project follows the [Amazon Open Source Code of Conduct](../CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://www.cncf.io/conduct/faq/), or contact [conduct@cncf.io](mailto:conduct@cncf.io) with any additional questions or comments.
 
 
 ## Security
