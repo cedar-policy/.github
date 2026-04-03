@@ -17,9 +17,8 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Charlie Murphy | chaluli | Amazon |
 | Katherine Hough | katherine-hough | Amazon |
 | Liana Hadarean | lianah | Amazon |
-| Andrew Gwozdziewycz | apg | StrongDM |
-| Ali Dowair | adowair | StrongDM |
-| Phil Hassey | philhassey | StrongDM |
-| Patrick Jakubowski | patjak-dev | StrongDM |
+| Ali Dowair | adowair | Delinea |
+| Patrick Jakubowski | patjakdev | Delinea |
+| Yanran Zeng | YanranZeng1 | Delinea |
 | Eitan Revach | eitan-revach | Cloudinary |
 | Tom Paulus | tpaulus | Cloudflare |
