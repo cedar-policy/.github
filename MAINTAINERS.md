@@ -14,7 +14,7 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Craig Disselkoen	| cdisselkoen	| Amazon	|
 | John Kastner 	| john-h-kastner-aws	| Amazon	|
 | Adrian Palacios | adpaco-aws | Amazon |
-| Charlie Murphy | chaluli | Amazon |
+| Charlie Murphy | chaluli | Montana State University |
 | Katherine Hough | katherine-hough | Amazon |
 | Liana Hadarean | lianah | Amazon |
 | Ali Dowair | adowair | Delinea |
@@ -22,3 +22,5 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Yanran Zeng | YanranZeng1 | Delinea |
 | Eitan Revach | eitan-revach | Cloudinary |
 | Tom Paulus | tpaulus | Cloudflare |
+| Victor Nicolet | victornicolet | Amazon |
+| Julian Lovelock | iamatjlovelock | Amazon |
