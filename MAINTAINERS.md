@@ -24,3 +24,4 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Tom Paulus | tpaulus | Cloudflare |
 | Victor Nicolet | victornicolet | Amazon |
 | Julian Lovelock | iamatjlovelock | Amazon |
+| Lucas Käldström | luxas | Upbound
