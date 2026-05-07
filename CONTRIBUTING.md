@@ -8,7 +8,7 @@ information to effectively respond to your bug report or contribution.
 
 
 ## Security issue notifications
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public GitHub issue.
+If you think you have discovered a security issue related to Cedar, **please write to us** at [cedar-policy-security@lists.cncf.io ](mailto:cedar-policy-security@lists.cncf.io ); do **NOT** open a public issue. See [SECURITY](SECURITY.md).
 
 
 ## Reporting Bugs/Feature Requests

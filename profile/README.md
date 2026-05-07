@@ -51,8 +51,7 @@ This project follows the [CNCF Code of Conduct](../CODE_OF_CONDUCT.md). For more
 
 ## Security
 
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/) or directly via email to [aws-security@amazon.com](mailto:aws-security@amazon.com). Please do **not** create a public GitHub issue.
-
+If you think you have discovered a security issue in this project, **please write to us** at [cedar-policy-security@lists.cncf.io ](mailto:cedar-policy-security@lists.cncf.io ); do **NOT** open a public issue. See [SECURITY](SECURITY.md).
 
 ## License
 
