@@ -6,20 +6,22 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 
 ## Current Maintainers
 
-|Maintainer	|GitHub ID	|Affiliation	|
+| Maintainer	| GitHub ID	| Affiliation	|
 |---	|---	|---	|
-|Neha Rungta	|neharungta	|Amazon	|
-|Mark Stalzer	|mstalzer	|Amazon	|
-|Sarah Cecchetti	|sarahcec	|Amazon	|
-|Darin	McAdams|D-McAdams	|Amazon	|
-|Emina Torlak	|emina	|Amazon	|
-|Mike Hicks	|	mwhicks1|Amazon	|
-|Anwar Mamat	|anwarmamat	|Amazon	|
-|Andrew Wells	|andrewmwells-amazon	|	Amazon|
-|Shaobo He	|shaobo-he-aws	|Amazon	|
-|Aaron Eline	|aaronjeline	|Amazon	|
-|Craig Disselkoen	|cdisselkoen	|Amazon	|
-|John Kastner 	|john-h-kastner-aws	|Amazon	|
-|Kesha Hietala	|khieta	|Amazon	|
-|Matt McCutchen	|mattmccutchen-amazon	|Amazon	|
-|Dave Bishop	|bisdavid	|Amazon	|
+| Darin	McAdams| D-McAdams	| SPIRL	|
+| Emina Torlak	| emina	| Amazon	|
+| Shaobo He	| shaobo-he-aws	| Amazon	|
+| Craig Disselkoen	| cdisselkoen	| Amazon	|
+| John Kastner 	| john-h-kastner-aws	| Amazon	|
+| Adrian Palacios | adpaco-aws | Amazon |
+| Charlie Murphy | chaluli | Montana State University |
+| Katherine Hough | katherine-hough | Amazon |
+| Liana Hadarean | lianah | Amazon |
+| Ali Dowair | adowair | Delinea |
+| Patrick Jakubowski | patjakdev | Delinea |
+| Yanran Zeng | YanranZeng1 | Delinea |
+| Eitan Revach | eitan-revach | Cloudinary |
+| Tom Paulus | tpaulus | Cloudflare |
+| Victor Nicolet | victornicolet | Amazon |
+| Julian Lovelock | iamatjlovelock | Amazon |
+| Lucas Käldström | luxas | Upbound
