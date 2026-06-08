@@ -20,7 +20,7 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Ali Dowair | adowair | Delinea |
 | Patrick Jakubowski | patjakdev | Delinea |
 | Yanran Zeng | YanranZeng1 | Delinea |
-| Eitan Revach | eitan-revach | Cloudinary |
+| Eitan Revach | eitanre2 |  |
 | Tom Paulus | tpaulus | Cloudflare |
 | Victor Nicolet | victornicolet | Amazon |
 | Julian Lovelock | iamatjlovelock | Amazon |
