@@ -13,7 +13,7 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Shaobo He	| shaobo-he-aws	| Amazon	|
 | Craig Disselkoen	| cdisselkoen	| Amazon	|
 | John Kastner 	| john-h-kastner-aws	| Amazon	|
-| Adrian Palacios | adpaco-aws | Amazon |
+| Adrian Palacios | adpaco-aws |  |
 | Charlie Murphy | chaluli | Montana State University |
 | Katherine Hough | katherine-hough | Amazon |
 | Liana Hadarean | lianah | Amazon |
@@ -24,4 +24,8 @@ This document contains a list of maintainers in this repo. See [RESPONSIBILITIES
 | Tom Paulus | tpaulus | Cloudflare |
 | Victor Nicolet | victornicolet | Amazon |
 | Julian Lovelock | iamatjlovelock | Amazon |
-| Lucas Käldström | luxas | Upbound
+| Lucas Käldström | luxas | Upbound |
+| Victor Moreno | Swolebrain | Amazon |
+| Chris Simmons | geekphilosophy | Amazon |
+| Mudit Chaudhary | muditchaudhary | Amazon |
+| Mark Creamer | mark-creamer-amazon | Amazon |
